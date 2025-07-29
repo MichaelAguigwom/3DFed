@@ -1,5 +1,5 @@
 import torch
-from attacks import Attack
+from attacks.attack import Attack
 
 class ModelReplace(Attack):
 
